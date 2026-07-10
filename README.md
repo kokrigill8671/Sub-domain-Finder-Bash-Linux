@@ -1,1 +1,0 @@
-# Sub-domain-Finder-Bash-Linux
